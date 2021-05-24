@@ -1,0 +1,5 @@
+app:
+  name: GO-Viper
+
+server:
+  port: 8000

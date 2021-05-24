@@ -1,0 +1,6 @@
+mode: set
+example.com/go-viper/config.go:8.30,9.13 1 1
+example.com/go-viper/config.go:15.2,18.16 4 1
+example.com/go-viper/config.go:10.38,11.27 1 1
+example.com/go-viper/config.go:12.10,13.42 1 1
+example.com/go-viper/config.go:18.16,19.59 1 1
